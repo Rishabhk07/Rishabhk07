@@ -1,5 +1,4 @@
 Joined Github **6** years ago.
->>>>>>> 80fdc11fd01738f6f344f27afe69cdd4163aa3ff
 
 Since then I pushed **2017** commits, opened **8** issues, submitted **47** pull requests, received **133** stars across **128** personal projects and contributed to **0** public repositories.
 
